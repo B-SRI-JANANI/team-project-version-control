@@ -2,3 +2,6 @@
 
 This repository demonstrates GitHub version control workflow using
 branches, pull requests, and conflict resolution.# team-project-version-control
+git add README.md
+git commit -m "Added README file"
+git push
